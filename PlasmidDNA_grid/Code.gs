@@ -2,7 +2,7 @@
  * PlasmidDNA_Grid — Standalone-safe web app
  *
  * Spreadsheet:
- * https://docs.google.com/spreadsheets/d/1soWIXL1usgLSI5YyHnw8gDvxf9i45PgAcbwTQFijc0I/edit
+ * https://docs.google.com/spreadsheets/your_link_of_interest
  *
  * Sheets:
  * - BOXES
@@ -48,7 +48,7 @@
 const CONFIG = {
   APP_NAME: 'PlasmidDNA_Grid',
 
-  SPREADSHEET_ID: '1soWIXL1usgLSI5YyHnw8gDvxf9i45PgAcbwTQFijc0I',
+  SPREADSHEET_ID: 'your_link_of_interest',
 
   BOXES_SHEET: 'BOXES',
   DNA_SHEET: 'PLASMID_DNA',
